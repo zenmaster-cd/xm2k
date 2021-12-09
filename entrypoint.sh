@@ -13,7 +13,7 @@ cat << EOF > ${DIR_TMP}/heroku.json
         "protocol": "vmess",
         "settings": {
             "clients": [{
-                "id": "${ID}",
+                "id": "b177aa9c-c6da-4351-a4f7-d741bc616e2d",
                 "alterId": ${AID}
             }]
         },
